@@ -26,15 +26,17 @@
 
  **`git diff`** shows changes that occurred between commits
   
- `git log`
+ **`git log`** lets you look back over the git and see what has happened. The options let you choose the configuration of the log.
 
- `git rm`
+ **`git rm`** used to remove a file from git control
+ `git rm file' [^6]
 
 [^1]:This will overwrite a file with the same name.
 [^2]:This will add to the end of the file if it already exists.
 [^3]: `-u` It will only copy if the new file doesn't exist or if there have been changes. 
 [^4]: will overwrite if the file already exists.
 [^5]: for renaming.
+[^6]: `git rm --cached file` lets you keep the removed file on your hard drive.
 
 
 
