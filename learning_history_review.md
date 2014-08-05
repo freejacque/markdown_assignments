@@ -11,9 +11,11 @@ I will have to be mindful and realize when I am struggling in my mind and make a
 
 **What learning tactics or approaches do you feel have most benefitted you as a student?**
 
-I tend to learn best when I can see an example. I have also made great use of flash cards in my educational career.
+I tend to learn best when I can see an example and can try to duplicate it on my own. I have also made great use of flash cards in my educational career.
 
 **Can you think of any strategies to increase the output or viability of these approaches in the context of WDI? (No idea is too crazy.)**
+
+To benefit from learning by example, we could have small exercises interspersed throughout our lectures.
 
 **What is your greatest fear as a WDI student?**
 
