@@ -1,18 +1,14 @@
-##Difficult Commands
-
-
- **`cat`** has three functions: 
+##Difficult Commands  
+ 
+ **`cat`** has three functions:
 
 + to display the contents of a file `cat file_name`
 + to combine copies of a file without changing the original `cat file1 file2 file3`
 + to create a new file `cat > new_file` 
 [^1] `cat >> new_file`
-[^2]
+[^2]  
 
-
-
-
-**`cp`** copies files & directories `cp source_file new_file` [^3]
+**`cp`** copies files & directories `cp source_file new_file` [^3]  
 
 **`curl`** transfers data from or to a server `curl [option] [URL...]`
 
