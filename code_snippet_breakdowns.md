@@ -1,14 +1,28 @@
 ##Difficult Commands
 
-`cat`
 
-`echo` 
+1. `cat`
 
-`echo "words" > file`
+2. `cp`
 
-`echo "words" >> file`
+3. `curl`
 
-`mv source_file new_file`
+4. `echo` 
+
+5. `echo "words" > file`
+
+6. `echo "words" >> file`
+
+7. `mv source_file new_file`
+
+8. `git diff` 
+
+9. `git log`
+
+10. `git rm`
+
+
+
 
 
 
