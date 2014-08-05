@@ -19,6 +19,8 @@ To benefit from learning by example, we could have small exercises interspersed 
 
 **What is your greatest fear as a WDI student?**
 
+My greatest fear is that I won't understand a lot of the material. Then after the program is finished I will be in a lot of debt and unable to get a job in web development.
+
 **Is this fear valid? If so, does it serve you as someone learning to program?**
 
 
