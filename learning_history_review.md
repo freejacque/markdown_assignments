@@ -1,6 +1,7 @@
 #Reviewing My Learning History
 
 **What habits have you developed over the years that you feel might hinder you as a learner during WDI?**
+changed
 
 I have the habit of wanting to figure everything out for myself. I think that could make the collaborative nature of our program a bit difficult to get used to.
 
