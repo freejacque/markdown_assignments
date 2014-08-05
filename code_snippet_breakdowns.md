@@ -22,9 +22,10 @@
  
  **`echo "text" >> file`** used to create and write in a file, if the file already exists the text will be added to the end of the file.
 
- `mv source_file new_file`
+ **`mv source_file new_file`** can be used to move and rename files `mv oldname newname` [^5]
 
- `git diff` 
+ **`git diff`** shows changes that occurred between commits
+  
  `git log`
 
  `git rm`
@@ -33,6 +34,7 @@
 [^2]:This will add to the end of the file if it already exists.
 [^3]: `-u` It will only copy if the new file doesn't exist or if there have been changes. 
 [^4]: will overwrite if the file already exists.
+[^5]: for renaming.
 
 
 
