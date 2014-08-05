@@ -1,27 +1,35 @@
 ##Difficult Commands
 
 
-1. `cat`
+ `cat` has three functions: 
 
-2. `cp`
-
-3. `curl`
-
-4. `echo` 
-
-5. `echo "words" > file`
-
-6. `echo "words" >> file`
-
-7. `mv source_file new_file`
-
-8. `git diff` 
-
-9. `git log`
-
-10. `git rm`
++ to display the contents of a file **(cat file_name)**
++ to combine copies of a file without changing the original **(cat file1 file2 file3)**
++ to create a new file **(cat > new_file)** 
+[^1] **(cat >> new_file)** 
+[^2]
 
 
+
+
+`cp`
+
+`curl`
+
+`echo` 
+
+ `echo "words" > file`
+ `echo "words" >> file`
+
+ `mv source_file new_file`
+
+ `git diff` 
+ `git log`
+
+ `git rm`
+
+[^1]:This will overwrite a file with the same name.
+[^2]:This will add to the end of the file if it already exists.
 
 
 
