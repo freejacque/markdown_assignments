@@ -23,4 +23,6 @@ My greatest fear is that I won't understand a lot of the material. Then after th
 
 **Is this fear valid? If so, does it serve you as someone learning to program?**
 
+I think it is a valid concern. It can serve as motivation to do well. I'll also try not to let my fear be a hinderance and additional source of stress.
+
 
