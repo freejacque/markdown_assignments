@@ -16,4 +16,8 @@
 
 `subl .bash_profile` used to open the bash profile for sublime. The bash profile can be used to add aliases for shortcuts in terminal.
 
- 
+`git add .` stages chnages made in the current file or folder.
+
+`hub create` creates a repo on GitHub.
+
+`git remote -v` can be typed in terminal to check if you are tethered to a remote repo. 
