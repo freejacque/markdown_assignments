@@ -1,8 +1,13 @@
 ##Command Lines from Aug 5 2014
 
-</br>
+<br>
 
 `git add .` stages chnages made in the current file or folder.
+
+<br>
+![git add . screenshot](http://i59.tinypic.com/2iu2qec.png)
+
+<br>
 
 `git pull upstream master` used to pull files from the gildenstern repo on GitHub to my local repo.
 
