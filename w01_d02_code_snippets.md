@@ -8,6 +8,8 @@
 
 `git push origin master` used to send updated information to the repo on GitHub. Changes need to be pushed for a file to be updated on GitHub.
 
+![git push origin master screenshot](http://i62.tinypic.com/19703t.png)
+
 `git remote add origin ssh` used to establish a connection to a repo on GitHub.
 
 `git remote add upstream ssh` helps establish access to the class gildenstern repo.
